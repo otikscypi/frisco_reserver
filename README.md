@@ -3,6 +3,8 @@
 
 The purpose of this project is to create simple script, that would make reservations at frisco.pl - one of leading online groceries in Poland. Due to COVID-19 situation, it was very difficult to find an available delivery slot. However, because a lot of people made a reservation during a panic months ago, they have no intention to order anything anymore, so their reservations are being terminated on the ongoing basis. This script meant to hunt for those slots, allowing user (me) to order groceries like before the pandemic.
 
+Since that time public interest in frisco's services diminished slightly and it is easier now to make a reservation on the next day. Because of that any changes will be coming in very slowly.
+
 At the moment script:
 - takes two arguments - username and password, that are subsequently used to log into user account on frisco.pl website, eg. node frisco_reserver.js mail@server.com password;
 - checks, if first available delivery slot is meeting passed requirements (ATM hardcoded, will be passed as arguments);
