@@ -1,7 +1,7 @@
 # frisco_reserver
 (Very dirty ATM) puppeteer script for making reservations on https://frisco.pl
 
-The purpose of this project is to create simple script, that would make reservations at frisco.pl - one of leading online groceries in Poland. Due to COVID-19 situation, it was very difficult to find an available delivery slot. However, because a lot of people made a reservation during a panic months ago, they have no intention to order anything anymore, so their reservations are being terminated on the ongoing basis. This script meant to hunt for those slots, allowing user (me) to order groceries like before the pandemic.
+The purpose of this project is to create simple script, that would make reservations at frisco.pl - one of leading online groceries in Poland. Due to COVID-19 situation, it was very difficult to find an available delivery slot. However, because a lot of people made a reservation during a panic months ago, they have no intention to order anything anymore, so their reservations are being terminated on the ongoing basis. This script is meant to hunt for those slots, allowing user (me) to order groceries like before the pandemic.
 
 Since that time public interest in frisco's services diminished slightly and it is easier now to make a reservation on the next day. Because of that any changes will be coming in very slowly.
 
